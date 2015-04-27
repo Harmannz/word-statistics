@@ -67,8 +67,6 @@ def max_word_frequency(words):
     return (max(word_dict.values()))
     
 
-# ----------------------------------------------
-# --- INSERT YOUR answer to question 1 here ----
 
 def get_words_from_file(filename):
     '''Reads the file with given name and returns a list of valid words. 
